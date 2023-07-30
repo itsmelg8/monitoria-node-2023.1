@@ -2,7 +2,7 @@
 
 ### Autores
 
-- André Carneiro de Albuquerque Santana Filho (acasf@cin.ufpe.br)
+- Maria Paula Perazzo Sampaio (mpps@cin.ufpe.br)
 
 - Sidney Alex de Amorim Arruda (saaa@cin.ufpe.br)
 
