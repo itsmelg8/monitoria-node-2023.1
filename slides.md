@@ -145,18 +145,13 @@ layout: image
 image: './images/express.png'
 ---
 ---
-layout: statement
----
-
-# ORM
-
----
 layout: image
 image: './images/ORM.png'
 ---
 
 ---
-layout: statement
+layout: image-left
+image: https://avatars.githubusercontent.com/u/17219288?s=280&v=4
 ---
 # PRISMA
 
@@ -164,27 +159,8 @@ layout: statement
     - Prisma Client
     - Prisma Migrate
     - Prisma Studio
----
-layout: statement
----
 
 
-# ORM
-
----
-layout: image
-image: './images/ORM.png'
----
-
----
-layout: statement
----
-# PRISMA
-
- - Possui 3 fundamentos:
-    - Prisma Client
-    - Prisma Migrate
-    - Prisma Studio
 ---
 layout: statement
 ---
