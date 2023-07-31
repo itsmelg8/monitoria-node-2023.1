@@ -144,30 +144,31 @@ image: './images/node-js-uses.png'
 layout: image
 image: './images/express.png'
 ---
-
+---
+layout: statement
 ---
 
 # ORM
 
-Object Relational Mapper é um técnica utilizada para converter relações e operações em bancos de dados em operações na linguagem que estamos trabalhando.
-
-Em outras palavras, ele traduz o código javascript (ou typescript) para a do banco de dados que for ser utilizado (MySQL, Postgres, SQLite, …).
-
-Na prática, ele nos ajudar a não ter que ficar escrevendo tabelas e o relacionamento entre elas.
-
 ---
-layout: image-right
-image: https://cdn-1.webcatalog.io/catalog/prisma-data-platform/prisma-data-platform-icon-filled-256.png?v=1675593236933
+layout: image
+image: './images/ORM.png'
 ---
-# Prisma
-
-- Prisma é um ORM opensource que foi desenvolvido com base em JavaScript e Node.Js.
-- Apresenta uma maneira muito simples de interagir com o banco de dados.
-
 
 ---
 layout: statement
 ---
+# PRISMA
+
+ - Possui 3 fundamentos:
+    - Prisma Client
+    - Prisma Migrate
+    - Prisma Studio
+---
+layout: statement
+---
+
+
 # GitHub da monitoria com listas e código fonte dos slides
 
 <button class="bg-blue-600 p-5 rounded-md hover:bg-blue-700 mx-auto">
