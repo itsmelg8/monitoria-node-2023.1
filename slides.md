@@ -26,20 +26,20 @@ fonts:
 <div class="flex flex-col h-full">
 <div class="flex items-center">
 <div class="flex flex-1 m-2 flex-col h-full bg-slate-700 p-5 rounded-lg">
+  <img class="rounded-full w-40 mx-auto" src="https://avatars.githubusercontent.com/u/66036425?v=4"/>
+  <div class="p-5">
+    <h1>Paula Perazzo</h1>
+    <h2> <logos-google-gmail /> mpps@cin.ufpe.br</h2>
+    <h2> <logos-github-icon  /> @PaulaPerazzo</h2>
+  </div>
+</div>
+<div class="flex flex-1 m-2 flex-col h-full bg-slate-700 p-5 rounded-lg">
   <img class="rounded-full w-40 mx-auto" src="https://avatars.githubusercontent.com/u/38598808?v=4"/>
   <div class="p-5">
     <h1>Sidney Alex</h1>
     <h2> <logos-google-gmail /> saaa@cin.ufpe.br</h2>
     <h2> <logos-github-icon  /> @silvercent011</h2>
     <h2> <logos-discord-icon /> S1d3A</h2>
-  </div>
-</div>
-<div class="flex flex-1 m-2 flex-col h-full bg-slate-700 p-5 rounded-lg">
-  <img class="rounded-full w-40 mx-auto" src="https://avatars.githubusercontent.com/u/66036425?v=4"/>
-  <div class="p-5">
-    <h1>Paula Perazzo</h1>
-    <h2> <logos-google-gmail /> mpps@cin.ufpe.br</h2>
-    <h2> <logos-github-icon  /> @PaulaPerazzo</h2>
   </div>
 </div>
 </div>
@@ -76,11 +76,7 @@ layout: statement
 
 # O JavaScript foi criado para funcionar apenas em client-side(browser)
 
----
 
-<div class="h-100">
-  <img class="h-full mx-auto" src="/images/livewire.jpg"/>
-</div>
 ---
 layout: image
 image: './images/web2.jpg'
@@ -117,15 +113,6 @@ image: './images/v8.png'
 #
 
 ---
-layout: intro-image-right
-image: './images/dahl.jpg'
----
-
-# Ryan Dahl
-
-Criador do Node.js
-
----
 layout: image
 image: './images/v8_libuv.png'
 ---
@@ -159,9 +146,28 @@ image: './images/express.png'
 ---
 
 ---
+
+# ORM
+
+Object Relational Mapper é um técnica utilizada para converter relações e operações em bancos de dados em operações na linguagem que estamos trabalhando.
+
+Em outras palavras, ele traduz o código javascript (ou typescript) para a do banco de dados que for ser utilizado (MySQL, Postgres, SQLite, …).
+
+Na prática, ele nos ajudar a não ter que ficar escrevendo tabelas e o relacionamento entre elas.
+
+---
+layout: image-right
+image: https://cdn-1.webcatalog.io/catalog/prisma-data-platform/prisma-data-platform-icon-filled-256.png?v=1675593236933
+---
+# Prisma
+
+- Prisma é um ORM opensource que foi desenvolvido com base em JavaScript e Node.Js.
+- Apresenta uma maneira muito simples de interagir com o banco de dados.
+
+
+---
 layout: statement
 ---
-
 # GitHub da monitoria com listas e código fonte dos slides
 
 <button class="bg-blue-600 p-5 rounded-md hover:bg-blue-700 mx-auto">
