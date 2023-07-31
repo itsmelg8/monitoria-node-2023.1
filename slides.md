@@ -169,6 +169,27 @@ layout: statement
 ---
 
 
+# ORM
+
+---
+layout: image
+image: './images/ORM.png'
+---
+
+---
+layout: statement
+---
+# PRISMA
+
+ - Possui 3 fundamentos:
+    - Prisma Client
+    - Prisma Migrate
+    - Prisma Studio
+---
+layout: statement
+---
+
+
 # GitHub da monitoria com listas e código fonte dos slides
 
 <button class="bg-blue-600 p-5 rounded-md hover:bg-blue-700 mx-auto">
