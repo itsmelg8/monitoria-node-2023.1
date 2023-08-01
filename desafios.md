@@ -6,4 +6,6 @@ Evoluindo o projeto do desafio, neste desafio vocês irão desenvolver a parte s
 
 2 - Autenticado, o usuário deve conseguir realizar comentários em filmes e séries, classificar (estrelinhas ou nota, vocês decidem) e ter uma lista de favoritos.
 
-3 - O restante das funcionalidades é com vocês, quanto mais empolgados, maior será a nota extra 😉
+3 - Assim como a lista, todas as funcionalidades e recursos devem ter testes automatizados. (feat. monitoria de testes)
+
+4 - O restante das funcionalidades é com vocês, quanto mais empolgados, maior será a nota extra 😉
