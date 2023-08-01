@@ -17,8 +17,8 @@ fonts:
 </div>
 
 <div class="absolute p-10 bottom-0 text-shadow-xl">
-  <h1><mdi-nodejs/> Node.js + Express</h1>
-  <h2>Enquanto você lê este subtítulo, um novo framework JavaScript é criado, e isso é culpa do Node!</h2>
+  <h2>Aula prática - Backend</h2>
+  <h3><mdi-nodejs/> Node.js + Express</h3>
 </div>
 
 ---

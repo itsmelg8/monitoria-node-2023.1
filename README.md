@@ -8,9 +8,7 @@
 
 ### Aula:
 
-[Slides](slides.pdf)
-<br>
-[Slides - PowerPoint](slides.pptx)
+[Slides](slides.md)
 
 ### Links úteis
 
@@ -20,7 +18,7 @@
 <br>
 [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/)
 <br>
-[Mongoose](https://mongoosejs.com/)
+[Prisma](https://prisma.io/)
 <br>
 [Introdução Express/Node - Aprendendo desenvolvimento web | MDN (mozilla.org)](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Express_Nodejs/Introduction)
 <br>
