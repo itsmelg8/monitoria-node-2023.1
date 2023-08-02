@@ -43,7 +43,7 @@
 
 ### Desafio
 
-[Desafio](desafio.md)
+[Desafio](desafios.md)
 
 **Material para a cadeira de Engenharia de Software do curso de Sistemas de Informação-UFPE**
 
